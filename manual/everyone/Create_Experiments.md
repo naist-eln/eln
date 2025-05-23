@@ -105,6 +105,6 @@ Draw molecular structures (can be saved and attached after drawing).
 
 <br>
 <br>
-*: ホーム画面に表示 (Displayed on the home screen)
+(*: ホーム画面に表示 (Displayed on the home screen))
 
 ![image](https://github.com/naist-eln/eln/blob/main/manual/Photo/Create_Experiments-3.png)
