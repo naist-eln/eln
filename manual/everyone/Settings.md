@@ -3,4 +3,4 @@
 Settings > GENERAL
 
 ---
-![image](https://github.com/naist-eln/eln/blob/main/manual/Photo/Settings.png)
+![image](https://github.com/naist-eln/eln/blob/main/manual/Photo/Settings-1.png)
