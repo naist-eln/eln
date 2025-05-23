@@ -6,4 +6,4 @@
 ## [④リソースノート作成 Create Resources](https://github.com/naist-eln/eln/blob/main/manual/everyone/Create_Resources.md)
 ## [⑤スケジュール作成 Create Schedule](https://github.com/naist-eln/eln/blob/main/manual/everyone/Create_Schedule.md)
 
-![image](https://github.com/naist-eln/eln/blob/main/manual/Photo/Home_Page.png)
+![image](https://github.com/naist-eln/eln/blob/main/manual/Photo/Home_Page-1.png)
