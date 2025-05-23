@@ -20,4 +20,4 @@ Edit user groups
 - ユーザー削除: 対象の名前をクリック
  To delete a user: click on the corresponding name.
 
-![image](https://github.com/naist-eln/eln/blob/main/manual/Photo/Add_or_Edit_User_Groups-2.png)
+![image](https://github.com/naist-eln/eln/blob/main/manual/Photo/Create_or_Edit_User_Groups-2.png)
