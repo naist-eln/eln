@@ -26,8 +26,9 @@ Enter the experiment title (e.g., Theme_SampleID).
 
 ### 実験開始日 (ホーム画面に表示)  
 Start Date (Displayed on the home screen)
-- デフォルトでノート作成日 (変更可能)
+- デフォルトでノート作成日 (変更可能)  
 Defaults to the notebook creation date (can be modified).
+
 
 
 
