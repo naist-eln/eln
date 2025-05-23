@@ -10,7 +10,7 @@ Add account
  Enter "Permission group," first name, last name, and e-mail address, then click "Create."
 
 ![image](https://github.com/naist-eln/eln/blob/main/manual/Photo/Add_or_Edit_Users-1.png)
-
+-
 
 ### アカウント編集
 Edit account
