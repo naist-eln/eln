@@ -1,6 +1,6 @@
 # メインタブ Main tab
 
-![image](https://github.com/naist-eln/eln/blob/main/manual/Photo/Main_Tab.png)
+![image](https://github.com/naist-eln/eln/blob/main/manual/Photo/Main_Tab-1.png)
 
 ## EXPERIMENTS
 主に実験内容を記載  
