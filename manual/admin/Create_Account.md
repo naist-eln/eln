@@ -2,7 +2,7 @@
 
 ### 1. 右上の人型のアイコンをクリックし、"Admin Panel"を選択。
 1. Click the person-shaped icon in the upper right corner and select "Admin Panel."
-![image](https://github.com/naist-eln/eln/blob/main/manual/Photo/CreateAccount-1.png)
+![image](https://github.com/naist-eln/eln/blob/main/manual/Photo/Create_Account-1.png)
 
 <br>
 
@@ -12,7 +12,7 @@
 - Firstname
 - Lastname
 - Email
-![image](https://github.com/naist-eln/eln/blob/main/manual/Photo/CreateAccount-2.png)
+![image](https://github.com/naist-eln/eln/blob/main/manual/Photo/Create_Account-2.png)
 
 <br>
 
