@@ -1,3 +1,5 @@
+# アカウント作成
+
 ### 1. 右上の人型のアイコンをクリックし、"Admin Panel"を選択。
 ![image](https://github.com/naist-eln/eln/blob/main/manual/Photo/CreateAccount-1.png)
 
