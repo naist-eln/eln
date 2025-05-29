@@ -18,15 +18,15 @@ Mainly used for compiling and summarizing data.
 
 ---
 ## SCHEDULER
-スケジュール  
-Mainly used.
+スケジュールの編集  
+Used to edit schedule.
 
 ---
 ## TEAM
 スケジュール、メンバーの確認  
-Used to check schedule and members.
+Used to check members.
 
 ---
 ## TOOL
-ツール  
-Used to.
+様々なツールのリスト  
+List of Various Tools.
