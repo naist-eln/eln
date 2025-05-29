@@ -14,15 +14,6 @@ You can change your password, e-mail address, and name, as well as configure you
 
 ---
 
-### 設定 > テンプレート
-Settings > TEMPLATES
-<br>
-- テンプレートの作成、編集、表示の設定が可能  
-You can create, edit, and configure the display settings of templates.
-![image](https://github.com/naist-eln/eln/blob/main/manual/Photo/Settings-3.png)
-
----
-
 ### 設定 > APIキー
 Settings > API KEYS
 <br>
