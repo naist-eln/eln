@@ -7,9 +7,19 @@
 Primarily used for documenting experimental details.
 
 ---
+## TEMPLATES
+テンプレートの編集  
+Used to edit templates.
+
+---
 ## RESOURCES
 主にデータまとめ  
 Mainly used for compiling and summarizing data.
+
+---
+## SCHEDULER
+スケジュール  
+Mainly used.
 
 ---
 ## TEAM
@@ -17,11 +27,6 @@ Mainly used for compiling and summarizing data.
 Used to check schedule and members.
 
 ---
-## SEARCH
-実験、データベースの検索  
-Used to search experiments and databases.
-
----
-## DOCUMENTATION
-eLabFTWのドキュメントに移動  
-Navigates to the documentation for eLabFTW.
+## TOOL
+ツール  
+Used to.
