@@ -1,16 +1,10 @@
 # テンプレートの作成 Create templates
 
-### "Create"ボタンを押し、任意のテンプレートを選択  
-Click the "Create" button to select a desired template.
+### テンプレート
+TEMPLATES
+<br>
+- テンプレートの作成、編集、表示の設定が可能  
+You can create, edit, and configure the display settings of templates.
+![image](https://github.com/naist-eln/eln/blob/main/manual/Photo/Settings-3.png)
 
 ---
-![image](https://github.com/naist-eln/eln/blob/main/manual/Photo/Create_Experiments-1.png)
-
----
-
-# 編集画面 Edit view
-
-### タイトル * 
-Title *
-- 実験タイトルを記入 (例: テーマ_サンプルID)  
-Enter the experiment title (e.g., Theme_SampleID).
